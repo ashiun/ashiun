@@ -1,0 +1,40 @@
+/**
+ * WEB222 – Final Assignment
+ *
+ * I declare that this assignment is my own work in accordance with
+ * Seneca Academic Policy. No part of this assignment has been
+ * copied manually or electronically from any other source
+ * (including web sites) or distributed to other students.
+ *
+ * Please update the following with your information:
+ *
+ *      Name: Bobby Li
+ *      Student ID: 045895042
+ *      Date: April 22, 2021
+ *
+ */
+
+
+/**
+ * Styles for the add-observation.html page 
+ */
+
+
+span.required {
+    color: red;
+}
+
+/* Styling to make the fields maintain a minimum width if zoomed in too much. */
+
+#obsNotes, #dropDown {
+    width: 520px;
+}
+
+.longField {
+    width: 500px;
+}
+
+#checkField {
+    width: 520px;
+    padding-right: 6px;
+}
